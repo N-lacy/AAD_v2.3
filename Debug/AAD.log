@@ -1,0 +1,4 @@
+﻿  AAD.cpp
+F:\Programing\C++\AAD\letters.h(62,15): warning C4101: 'k': unreferenced local variable
+F:\Programing\C++\AAD\letters.h(62,12): warning C4101: 'j': unreferenced local variable
+  AAD.vcxproj -> F:\Programing\C++\AAD\Debug\AAD.exe

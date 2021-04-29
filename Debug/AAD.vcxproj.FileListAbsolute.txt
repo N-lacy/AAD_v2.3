@@ -1,0 +1,2 @@
+F:\Programing\C++\AAD\Debug\AAD.exe
+F:\Programing\C++\AAD\Debug\AAD.pdb
